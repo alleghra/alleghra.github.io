@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Coming out: Je ne code pas durant mon temps libre
+title: Je ne code pas durant mon temps libre
 categories: [humeur]
-tags: [honte]
+tags: [honte, coming out]
 ---
 J’ai longtemps codé pendant mon temps libre. Je le faisais parce que j’apprenais à coder. Je le faisais parce que je voulais prouver que j’étais capable, que je méritais d’être appelée une codeuse, une dev. Je le faisais parce que je complexais de tout ce que je voulais savoir et que la liste des technologies que je voulais maîtriser ne cessait de s’allonger au fur et à mesure que le temps avançait.
 
