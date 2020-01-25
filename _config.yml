@@ -9,7 +9,7 @@ name: Miloon Alleghra
 description: Writer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/dreadandsmile.jpg
+avatar: {{ site.baseurl }}/images/dreadandsmile.jpg
 
 #
 # Flags below are optional
