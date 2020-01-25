@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Le loup dans la bergerie
+categories: [atelier]
+tags: [monstre]
 ---
 
 L'atelier des Scriptonautes : chaque jeudi soir, les Scriptonautes se réunissent pour écrire autour d'un thème et de sujets imposés. Jeudi dernier, le thème était "les monstres".
