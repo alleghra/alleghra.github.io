@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Une page jamais tournée
+categories: [atelier]
+tags: [souvenir]
 ---
 
 Atelier d'écriture : "[Souvenirs : quelqu'un du passé resurgit dans ta vie...](https://www.scriptonautes.net/index.php/ateliers-passes/souvenirs-sujet-5-souvenirs-douloureux)"
