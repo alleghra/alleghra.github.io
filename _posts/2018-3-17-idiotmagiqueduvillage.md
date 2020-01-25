@@ -1,6 +1,8 @@
 ---
 layout: post
 title: L'idiot magique du village
+categories: [atelier]
+tags: [sorcellerie, menteur, portrait]
 ---
 
 Récit écrit pour l'atelier [Sorcellerie : Menteurs, menteurs !](https://www.scriptonautes.net/index.php/ateliers-passes/sorcellerie-sujet-2-menteurs-menteurs) des Scriptonautes.
