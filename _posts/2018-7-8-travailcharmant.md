@@ -1,6 +1,8 @@
 ---
 layout: post
 title: À la recherche du travail charmant
+categories: [atelier]
+tags: [travail, professionnel, lettre de motivation]
 ---
 
 Atelier des Scriptonautes : [Corporate Bullshit - la lettre de motivation](https://www.scriptonautes.net/index.php/ateliers-passes/corporate-bullshit-sujet-5-lettre-de-motivation)
@@ -18,5 +20,3 @@ Une de mes qualités étant l’honnêteté, c'est donc tout à fait ouvertement
 Dans l'attente de votre proposition d'entretien dans un lieu un brin plus accueillant qu'un bureau gris ou blanc, je vous souhaite une excellente journée.
 
 P.S. n'oubliez pas votre parapluie parce qu'il pleut sévère aujourd'hui.
-
-

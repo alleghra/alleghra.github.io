@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Sens dessus dessous
+categories: [atelier]
+tags: [érotisme, sensualité]
 ---
 
 Atelier d'écriture des Scriptonautes. [Thème : Érotisme. Sujet : Sensualité](https://scriptonautes.net/index.php/ateliers-passes/erotisme-sujet-5-sensualite).

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Ca devait rester en famille
+categories: [atelier]
+tags: [fantôme, famille]
 ---
 
 Atelier des Scriptonautes : [Histoire de Fantômes](https://www.scriptonautes.net/index.php/ateliers-passes/surnaturel-sujet-5-histoire-de-fantomes).

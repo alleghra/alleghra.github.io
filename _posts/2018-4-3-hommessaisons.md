@@ -1,6 +1,8 @@
 ---
 layout: post
 title: L'homme aux multiples saisons
+categories: [atelier]
+tags: [rencontre]
 ---
 
 Atelier des Scriptonautes sur le [thème "Rencontre". Choix de sujet : "Rencontre avec Joe Black"](https://www.scriptonautes.net/index.php/ateliers-passes/rencontres-sujet-1-rencontre-avec-joe-black)

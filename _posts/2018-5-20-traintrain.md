@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Le train-train quotidien
+categories: [atelier]
+tags: [jour sans fin]
 ---
 
 Atelier des Scriptonautes : [Un jour sans fin](https://www.scriptonautes.net/index.php/ateliers-passes/temps-sujet-5-un-jour-sans-fin).
@@ -50,5 +52,3 @@ Pourtant heureuse de son petit train train quotidien, Maria-Teresa essaya de nou
 Un jour, pour voir, elle tua John. Bien qu'elle se réveilla à ses côtés le lendemain et qu'il soit tout à fait vivant, elle le vécut terriblement mal. La culpabilité d'avoir assassiné quelqu'un la rongeait. Elle ne se sentait plus digne ni de lui, ni de ses enfants, ni même d'Elena.
 
 Elle n'avait pas fini de lire tous les livres que sa mère lui avait légués lorsque Maria-Teresa mit fin à ses jours. Ce qui est dommage car dans un de ces livres se trouvait le secret pour sortir de cette boucle apparemment infinie. Ce n'était pas vraiment un livre mais un carnet, écrit à la main, par plusieurs mains. Un carnet qui se passait dans la famille depuis plusieurs générations. Maria-Teresa n'avait même pas remarqué son existence parmi la masse d'ouvrages. Oui, c'était vraiment dommage.
-
-

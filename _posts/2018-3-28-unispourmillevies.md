@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Unis pour mille vies
+categories: [atelier]
+tags: [totem, animal]
 ---
 
 Récit pour l’atelier d’écriture Les Scriptonautes sur le thème [Animalité et le sujet « Totem »](https://www.scriptonautes.net/index.php/ateliers-passes/animalite-sujet-2-totem)

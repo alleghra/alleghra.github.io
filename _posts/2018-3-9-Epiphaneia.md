@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Epiphaneia
+categories: [atelier]
+tags: [enfance]
 ---
 
 
@@ -81,5 +83,3 @@ Cher journal,
 Aujourd'hui, ça fait un an que Charlie et son père sont partis. Enfin quand je dis partis, je devrais dire qu'ils ont été pris en charge par les autorités. Ça a été très dur d'être la petite copine du monstre au lycée mais maintenant que je suis à l'université, ça va. Personne ne me connaît et j'ai pu recommencer à zéro. Je continue de voir le psy et ça me fait du bien. Quand je repense à ma situation il y a un an, je me rends compte que ma vie a beaucoup changé. J'ai un groupe d'amis, on s'amuse bien, on sort, on étudie ensemble, on a des passions communes. Des passions saines. On va au cinéma, on sort dans les bars, on traîne dehors, on va à des concerts de groupes locaux.
 L'odeur des morts n'est plus quelque chose de quotidien.
 Aujourd'hui, j'ai l'impression que je vis enfin bel et bien parmi les vivants et ils me donnent enfin l'impression d'être vivante également. Aujourd'hui, je comprends les nuances de couleurs, je comprends que tout n'est pas bien ou mal. Je comprends que je ne suis ni gentille ni méchante. Aujourd'hui, je comprends que je suis simplement moi et que mes choix définissent mon parcours, définissent ma vie et mon bonheur. Pas ceux des autres.
-
-
