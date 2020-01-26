@@ -5,7 +5,7 @@ categories: [humeur]
 tags: [caca, bonnes pratiques]
 ---
 
-### Le postulat de départ : ce qu'on te raconte quand t'es gamin
+## Le postulat de départ : ce qu'on te raconte quand t'es gamin
 
 Les XP te permettent d'avoir un bon job où tu ne développeras pas de problème de santé. Les points de vie, c'est pour rester en vie longtemps et en bonne santé.
 
@@ -35,11 +35,11 @@ Tu peux également évoluer dans la vie sans viser les badges de prestige. Certa
 
 ![_config.yml]({{ site.baseurl }}/images/imalwayshungry.gif)
 
-### Comment choisir entre [Job Alimentaire] et [Carrière] ?
+## Comment choisir entre [Job Alimentaire] et [Carrière] ?
 
 Nous sommes différents, chacun a ses propres envies, ses propres aspirations. On ne peut pas déterminer à l'avance si on est destiné à s'orienter vers la [Carrière] ou le reste.
 
-### Puis-je changer d'avis ?
+## Puis-je changer d'avis ?
 
 Bien évidemment ! Bon nombre de gens ayant entrepris la quête [Carrière] laissent tomber en cours de partie pour se réorienter vers la quête [Rien à battre]. Souvent, c'est à la suite d'une révélation que le changement dans ce sens se produit. On se rend compte qu'on ne voit pas assez sa famille, que les sacrifices ne valent pas le badge, parfois on tombe malade tout simplement et on ne peut plus jouer ce genre de partie. N'importe quelle raison peut entraîner un changement d'avis et on peut évidemment changer son quotidien si on se sort les doigts du cul !
 Également, il est possible aussi de laisser tomber la (non) quête [Rien à battre] pour se destiner à une [Carrière]. Il est plus difficile de se hisser à un haut niveau quand on commence tard mais les aventures [formations], [cours du soir] et parfois même le très tendancieux [Promotion Canapé] peuvent aider à rattraper du retard. C'est souvent une question d'égo qui entraine un personnage en cours de partie à modifier ce choix d'orientation. On se rend compte qu'on a plus de potentiel/compétences/intelligence/autres que le voisin et on souhaite être récompensé avec un badge à la hauteur de sa valeur. Ou plus basiquement, les réunions d'anciens froissent quelques égos lorsqu'on se surprend à mentir sur ses choix de vie professionnelle. On se rend compte alors qu'on n'est pas fier et pas heureux de la tournure qu'à pris la partie.

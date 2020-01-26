@@ -10,7 +10,7 @@ Que faire lorsqu'on doit faire face à un cas de diarrhée au bureau ? Pour évi
 
 ![_config.yml]({{ site.baseurl }}/images/diarrhealava.gif)
 
-### Comment garder l'anonymat quand tu as un aérosol à la place de l'anus ?
+## Comment garder l'anonymat quand tu as un aérosol à la place de l'anus ?
 
 Analysons la situation.
 

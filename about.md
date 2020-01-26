@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Salut c'est Miloon.
+Enchantal.
+Merci, de rien, à bientôt.
 
-### More Information
+### Me contacter
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+M'enfin, pourquoi faire ?
+Si vraiment tu insistes, tu peux me retrouver sur Twitter ou Instagram. Je passe sur Fäceboeck une fois par mois environ, pour voir si les gens sont encore vivants.
+Bisous.
