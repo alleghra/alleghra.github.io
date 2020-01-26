@@ -5,6 +5,7 @@ categories: [humeur]
 tags: [deprime]
 ---
 
+Ouais, je sais, le titre vend trop du rêve mais j'en ai tellement plus rien à foutre à ce stade.
 J'ai besoin de chier ma chiasse donc d'avance, pardon tout plein si ça pue un peu du cul par ici.
 
 Dimanche après-midi. Ca fait un mois que j'entends mes voisins d'à côté se hurler dessus tous les jours. Avant, c'était moins souvent. Mais avant, il faisait moins froid. Donc je suppose qu'ils sortaient...
