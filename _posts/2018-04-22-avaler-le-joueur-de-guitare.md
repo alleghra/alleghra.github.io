@@ -5,6 +5,8 @@ categories: [humeur]
 tags: [musique, romance]
 ---
 
+![_config.yml]({{ site.baseurl }}/images/guitare.jpg)
+
 Ça fonctionne un peu comme un chat et la valériane. Un peu comme la gourmandise qui, paradoxalement, dévore l’homme qui s’empiffre de plats délicieux. À chaque fois que ça me fait ça, ça me hante et je ne cesse de vouloir me gaver encore et encore de ce qui m’obsède. Il ne s’agit pas de drogue, il ne s’agit pas de sexe mais mon manque est tout aussi puissant.
 
 Je n’en peux plus d’attendre les jours passer pour retourner sur la place de la République, revoir ce joueur de guitare, entendre ses chansons. Il y a un an, c’est au même endroit où je me trouve actuellement que j’ai vu pour la première fois Cristiano. Je ne l’ai pas remarqué tout de suite. J’étais avec des amis, on faisait la fête, on avait fini les cours, on était posé par terre, profitant des derniers rayons du soleil, fumant des clopes, buvant des bières. Rien de bien extraordinaire jusque là. Et Cristiano est arrivé, a posé sa valise, en a sorti sa guitare, son gobelet à pièces et a commencé à jouer ses chansons. Pas des vieilles reprises moisies, mal jouées, mal chantées. Il était venu interpréter ses propres paroles.
