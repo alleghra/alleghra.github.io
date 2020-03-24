@@ -5,6 +5,8 @@ categories: [atelier]
 tags: [sorcellerie, menteur, portrait]
 ---
 
+![idiot]({{ site.baseurl }}/images/idiot.jpg)
+
 Récit écrit pour l'atelier [Sorcellerie : Menteurs, menteurs !](https://www.scriptonautes.net/index.php/ateliers-passes/sorcellerie-sujet-2-menteurs-menteurs) des Scriptonautes.
 
 ___
