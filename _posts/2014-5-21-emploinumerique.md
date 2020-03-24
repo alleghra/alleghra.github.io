@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Emploi numérique : les serfs 2.0
+title: Emploi numérique - les serfs 2.0
 categories: [humeur]
 tags: [emploi numérique, emploi, professionnel]
 ---
