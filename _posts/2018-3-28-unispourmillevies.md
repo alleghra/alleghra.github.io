@@ -5,6 +5,8 @@ categories: [atelier]
 tags: [totem, animal]
 ---
 
+![chat]({{ site.baseurl }}/images/chat.jpg)
+
 Récit pour l’atelier d’écriture Les Scriptonautes sur le thème [Animalité et le sujet « Totem »](https://www.scriptonautes.net/index.php/ateliers-passes/animalite-sujet-2-totem)
 
 Je ne me rappelle plus de notre première rencontre mais elle remonte probablement à l'époque où je n'étais pas en âge de me forger des souvenirs sur le long terme. Mon premier souvenir de lui, c'est quand j'avais 6 ans. J'étais dans un jardin, turbulente, comme d'habitude, je criais et gesticulais dans tous les sens. Il est sorti d'un buisson en marchant d'un pas décidé, en me fixant, en avançant vers moi sans que rien d'autre ne puisse perturber sa mission. Il s'est arrêté devant moi, s'est assis, continuait de me regarder fixement. Son regard sur moi, de l'autre bout du jardin, m'avait calmé, apaisé. Je ne criais plus, je ne bougeais plus. On s'est connecté lui et moi. Je me suis baissé, sans m'avancer vers lui, comme pour lui faire comprendre que j'avais déjà intégré les premières règles : respecter les distances et rester à l'écoute. On était à la même hauteur lui et moi et on s'est regardé très longtemps. Il semblait calme mais décidé. Puis il a fermé les yeux et s'est mis à ronronner. C'est à cet instant que mon destin s'est lié à lui. Il m'avait choisi. Il s'était décidé. Il allait m'accompagner tout au long de ma vie.
