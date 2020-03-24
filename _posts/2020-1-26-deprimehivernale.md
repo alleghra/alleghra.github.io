@@ -5,6 +5,8 @@ categories: [humeur]
 tags: [deprime]
 ---
 
+![déprime hivernale]({{ site.baseurl }}/images/deprimehivernale.jpg)
+
 Ouais, je sais, le titre vend trop du rêve mais j'en ai tellement plus rien à foutre à ce stade.
 J'ai besoin de chier ma chiasse donc d'avance, pardon tout plein si ça pue un peu du cul par ici.
 
