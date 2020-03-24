@@ -5,6 +5,8 @@ categories: [humeur]
 tags: [romance]
 ---
 
+![_config.yml]({{ site.baseurl }}/images/dunsimpleregard.jpg)
+
 Tout passe trop vite. On n’a pas le temps de se noyer dans l’instant présent qu’il est déjà trop tard. A chaque fois c’est comme ça. On s’approche, on s’apprivoise, on se frôle et c’en est fini de nous.
 
 Je déteste t’aimer mais j’aime tant te détester.
