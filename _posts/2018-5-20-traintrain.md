@@ -5,6 +5,8 @@ categories: [atelier]
 tags: [jour sans fin]
 ---
 
+![train]({{ site.baseurl }}/images/train.jpg)
+
 Atelier des Scriptonautes : [Un jour sans fin](https://www.scriptonautes.net/index.php/ateliers-passes/temps-sujet-5-un-jour-sans-fin).
 
 ___
