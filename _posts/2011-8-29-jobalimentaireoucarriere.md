@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comment faire caca au bureau en toute discrétion
+title: Job alimentaire ou carrière, a-t-on vraiment le choix ?
 categories: [humeur]
 tags: [caca, bonnes pratiques]
 ---
