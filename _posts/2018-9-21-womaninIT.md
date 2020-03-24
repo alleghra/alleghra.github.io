@@ -4,6 +4,9 @@ title: Être une femme dans l'IT
 categories: [humeur]
 tags: [femme dans l'IT]
 ---
+
+![women in tech]({{ site.baseurl }}/images/womenintech.jpg)
+
 Ça fait plus d’un an que je travaille en tant que formatrice en développement web. Je suis la seule formatrice. Tous les autres sont des hommes. J’ai toujours pensé que ça ne faisait aucune différence. Que la différence résidait surtout dans le regard des autres. Si je m’en fous, tout le monde s’en fout. Mais en fait, tout le monde ne s’en fout pas. Parfois, quand il y a une majorité d’hommes, certains se sentent beaucoup plus à l’aise pour lancer des trucs complètement déplacés voire carrément sexistes. Et comme d’habitude, on entend souvent comme “justification” que “c’est une blague”, suivi de la culpabilisation “si t’es mal à l’aise, c’est parce que t’as pas d’humour”. Pour ma part, j’ai (pour le moment) de la chance : la plupart de mes collègues ne sont pas comme ça. Avec eux, je ne ressens pas cette barrière, ce malaise. On est collègues, sur le même plan, égaux et voilà.
 
 Mais la dernière fois qu’on parlait de ma place dans le crew des formateurs, en discutant avec Eric, je me suis rendue compte qu’effectivement, être une femme, dans mon taff, et dans l’IT, c’est différent qu’être un homme. Pourquoi ? Parce qu’une femme dans un environnement majoritairement masculin n’est pas exposée aux mêmes risques, aux mêmes anecdotes, aux mêmes responsabilités qu’un homme.
