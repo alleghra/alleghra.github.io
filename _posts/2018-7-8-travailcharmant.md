@@ -5,6 +5,8 @@ categories: [atelier]
 tags: [travail, professionnel, lettre de motivation]
 ---
 
+![work]({{ site.baseurl }}/images/work.jpg)
+
 Atelier des Scriptonautes : [Corporate Bullshit - la lettre de motivation](https://www.scriptonautes.net/index.php/ateliers-passes/corporate-bullshit-sujet-5-lettre-de-motivation)
 
 ___
