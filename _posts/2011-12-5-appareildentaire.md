@@ -5,6 +5,8 @@ categories: [humeur]
 tags: [appareil dentaire, torture, adolescence]
 ---
 
+![dents]({{ site.baseurl }}/images/dents.jpg)
+
 Ah ! L'époque du sourire Robocop, des vannes foireuses sur les chemins de fer, de la souffrance perpétuelle, de la prise quotidienne d'anti-douleurs, des visites chez l'orthodontiste...
 
 ![_config.yml]({{ site.baseurl }}/images/braces.gif)
