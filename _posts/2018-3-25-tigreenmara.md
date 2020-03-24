@@ -5,6 +5,8 @@ categories: [atelier]
 tags: [bestialité, vengeance]
 ---
 
+![tigre]({{ site.baseurl }}/images/tigre.jpg)
+
 Récit pour l'atelier d'écriture Les Scriptonautes sur le thème "[Animalité et le sujet "Bestialité](https://www.scriptonautes.net/index.php/ateliers-passes/animalite-sujet-3-bestialite)"
 
 « - Pourquoi avez-vous tué votre patron ?
