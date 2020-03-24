@@ -5,7 +5,7 @@ categories: [humeur]
 tags: [musique, romance]
 ---
 
-![_config.yml]({{ site.baseurl }}/images/guitare.jpg)
+![guitare]({{ site.baseurl }}/images/guitar.jpg)
 
 Ça fonctionne un peu comme un chat et la valériane. Un peu comme la gourmandise qui, paradoxalement, dévore l’homme qui s’empiffre de plats délicieux. À chaque fois que ça me fait ça, ça me hante et je ne cesse de vouloir me gaver encore et encore de ce qui m’obsède. Il ne s’agit pas de drogue, il ne s’agit pas de sexe mais mon manque est tout aussi puissant.
 
