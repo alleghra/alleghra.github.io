@@ -4,6 +4,9 @@ title: Je ne code pas durant mon temps libre
 categories: [humeur]
 tags: [honte, coming out]
 ---
+
+![coming out]({{ site.baseurl }}/images/comingout.jpg)
+
 J’ai longtemps codé pendant mon temps libre. Je le faisais parce que j’apprenais à coder. Je le faisais parce que je voulais prouver que j’étais capable, que je méritais d’être appelée une codeuse, une dev. Je le faisais parce que je complexais de tout ce que je voulais savoir et que la liste des technologies que je voulais maîtriser ne cessait de s’allonger au fur et à mesure que le temps avançait.
 
 J’ai continué par la suite aussi parce que je voulais ressembler à mes collègues qui bossaient du code, bouffaient du code, pissaient et chiaient du code. Si eux le font, c’est que c’est ça que je dois faire. Donc j’ai continué, même si j’ai commencé à faire des insomnies et que j’étais de moins en moins concentrée durant la journée. J’aurais pu me restreindre, ne faire “que” deux heures de code après le repas du soir mais quand tu codes, tu vois pas le temps passer. T’aimes ça, c’est passionnant, c’est hyper stimulant parce que t’es constamment en train de te battre avec une fonctionnalité que tu veux implémenter, un bug à réparer, un concept nouveau que tu piges pas tout de suite. Ça prend des heures de coder, pas juste 5min par ci ou 15min par là.
