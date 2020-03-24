@@ -4,6 +4,9 @@ title: All the dirt and sand we get on our clothes
 categories: [humeur]
 tags: [personnel]
 ---
+
+![dirt]({{ site.baseurl }}/images/dirt.jpg)
+
 I saw a tweet on Twitter. A woman saying that her mum told her a few years ago that she was an accident and she was a disappointment. In my mind, I was like “oh girl, how sweet is your story”. Because my mum made me think for years, since my childhood, that I ruined her life by existing.
 
 I have a lot of sad memories about my childhood. Maybe some are exaggerated, like every memories I think. But I remember clearly that before I turned 6, my mum used to yell at me because I used to many tissues while I was sick. I clearly remember her confiscating my new tissues, spilling the garbage and saying “those are not dirty, it’s just water, use them again”. I remember when she yelled at me when I used too many toilet paper after a number two. 
