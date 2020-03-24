@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comment faire caca au bureau en toute discrétion
+title: La torture de l'appareil dentaire
 categories: [humeur]
 tags: [appareil dentaire, torture, adolescence]
 ---
