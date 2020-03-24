@@ -4,6 +4,9 @@ title: Incroyable ! A 34 ans, elle réussit à aller dans un endroit inconnu tou
 categories: [humeur]
 tags: [agoraphobie]
 ---
+
+![agoraphobic]({{ site.baseurl }}/images/agoraphobic.jpg)
+
 Personne à la maison. Rien dans le frigo. Plus grand chose dans les placards. Une liste de courses sur le frigo.
 
 Je suis en pyjama. Je regarde la liste. Je réfléchis. Je visualise ce que je dois faire. Me doucher, m'habiller, préparer les sacs, aller devant la porte, l'ouvrir, descendre les escaliers, aller jusqu'à l'arrêt de bus, monter dedans, descendre à l'arrêt de la correspondance, traverser la rue pour attendre l'autre bus, monter dans l'autre bus, descendre à l'arrêt du magasin, rentrer dans le magasin, prendre un caddie, suivre le parcours du magasin avec la liste, aller à la caisse, payer, emballer les courses dans les sacs et reprendre les bus jusqu'à la maison.
