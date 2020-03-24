@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lorsque l’économie n’est plus au service de l’humain
+title: Emploi numérique : les serfs 2.0
 categories: [humeur]
 tags: [emploi numérique, emploi, professionnel]
 ---
