@@ -5,6 +5,8 @@ categories: [humeur]
 tags: [travail]
 ---
 
+![angry]({{ site.baseurl }}/images/angry.jpg)
+
 C'est la méga merde. Je crois que j'ai besoin de faire un bilan de ce qui se passe mais aussi de ce qui s'est passé ces derniers mois. C'est mon histoire, mon point de vue, ma version des faits. Je vais peut-être dire des conneries, peut-être dire des choses qui sembleront éloignées de la vérité des autres. C'est un truc que j'ai appris avec ma mère : notre vérité ne correspond pas forcément à la vérité des autres, même quand tu essaies d'être factuel.
 
 J'ai commencé mon taff actuel dans des conditions désastreuses. C'était y'a 3 ans. Et j'ai jamais oublié. J'ai beaucoup moins de rancoeurs. J'ai digéré mais j'ai pas oublié que les premiers "cours" en tant que formatrice en code que j'ai donnés se sont déroulés dans une usine en ruines, sans vitre aux fenêtres, en plein hiver, avec 4 petits radiateurs aux pellets pour chauffer un 300m². On arrivait parfois à atteindre les 12°c dans la salle. On avait calfeutré avec des vieux cartons, du vieux tissu et du scotch. "Vous avez hacké votre environnement ! Bravo !" Quel bullshit pour éviter de dire qu'on nous a abandonnés dans un immeuble insalubre et dangereux, menaçant de s'écrouler à chaque instant, avec des gravats, des seringues abandonnées et qu'on essaie de faire notre travail malgré ces conditions.
