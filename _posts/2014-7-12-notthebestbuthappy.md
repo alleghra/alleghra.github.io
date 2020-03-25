@@ -5,6 +5,8 @@ categories: [humeur]
 tags: [coup de gueule]
 ---
 
+![happy]({{ site.baseurl }}/images/happy.jpg)
+
 Il y a quelques années, avant qu'on entende parler à tout va des « hipsters », il y avait déjà cette mode du mépris. « Tu connais ce groupe que depuis leur troisième album, mon dieu, t'es trop nul ! », « Je portais ce pull avant qu'il ne soit à la mode », « c'est ringard d'aimer ça ». C'était usant de les voir s'agiter pour savoir qui d'entre eux était le plus méprisant, parfois même le plus haineux. A quoi bon passer son temps à se féliciter d'avoir été le premier à aimer un truc ? A quoi bon tenter de rabaisser les autres parce qu'ils ont des goûts différents des siens, ou même parce qu'ils vivent leur vie différemment ?
 
 Hier, on méprisait les fans de Nickelback ou de Tokio Hotel. Aujourd'hui, on méprise les gens qui préfèrent jouer aux jeux vidéo sur console ou sur PC (choisis un camp camarade, et crache sur l'autre, c'est ça le principe). Demain, ils se complairont tous dans la sottise d'être les meilleurs, oubliant que le voisin d'à côté, s'il n'est pas le meilleur dans un domaine, a quand même quelque chose à apporter.
