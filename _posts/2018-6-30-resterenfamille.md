@@ -5,6 +5,8 @@ categories: [atelier]
 tags: [fantôme, famille]
 ---
 
+![resterenfamille]({{ site.baseurl }}/images/resterenfamille.jpg)
+
 Atelier des Scriptonautes : [Histoire de Fantômes](https://www.scriptonautes.net/index.php/ateliers-passes/surnaturel-sujet-5-histoire-de-fantomes).
 
 ___
