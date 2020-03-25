@@ -5,7 +5,7 @@ categories: [atelier]
 tags: [enfance]
 ---
 
-![pages]({{ site.baseurl }}/images/pages.jpg)
+![epiphanie]({{ site.baseurl }}/images/epipha.jpg)
 
 Récit écrit dans le cadre de l'atelier d'écriture des Scriptonautes : [Adieu l'enfance](https://www.scriptonautes.net/index.php/ateliers-passes/enfance-sujet-4-adieu-l-enfance).
 
