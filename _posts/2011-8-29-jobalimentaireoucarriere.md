@@ -2,8 +2,11 @@
 layout: post
 title: Job alimentaire ou carrière, a-t-on vraiment le choix ?
 categories: [humeur]
-tags: [caca, bonnes pratiques]
+tags: [carrière, emploi, job]
 ---
+
+![choice]({{ site.baseurl }}/images/choice.jpg)
+
 
 ## Le postulat de départ : ce qu'on te raconte quand t'es gamin
 
