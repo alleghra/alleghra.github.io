@@ -5,6 +5,8 @@ categories: [humeur]
 tags: [emploi numérique, emploi, professionnel]
 ---
 
+![digital]({{ site.baseurl }}/images/digital.jpg)
+
 *A l'attention d'Axelle Lemaire, secrétaire d’État chargée du Numérique, d'Arnaud Montebourg, ministre de l'Économie, du Redressement productif et du Numérique, François Rebsamen, ministre du Travail, de l’Emploi et du dialogue social, de François Hollande, président de la République française et toutes les agences web de France (bien sûr), mais aussi d'ailleurs.*
 
 Je n'ai pas la prétention de vous apprendre votre métier. En revanche, parce que j'ai des questions, des idées, des rêves pour nos jeunes (dont je fais partie), j'aimerais avoir des réponses en ce qui concerne les réalités du marché de l'emploi dans le secteur du numérique.
