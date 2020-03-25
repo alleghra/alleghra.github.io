@@ -6,6 +6,9 @@ categories: [humeur]
 tags: [personnage, torture]
 ---
 
+![red]({{ site.baseurl }}/images/red.jpg)
+
+
 **9 septembre :**
 J’ai suivi cette femme que j’ai vu dans le café la semaine dernière. Elle est revenue comme tous les soirs depuis lors. Elle est toujours habillée de la même manière. On croirait à une entité magique. Il y a quelque chose d’étrange chez cette femme. Elle dégage un parfum de mystère démoniaque.
 Elle est brune. Elle a les cheveux longs. Elle a le teint extrêmement pâle. Elle a les yeux presque bridé la nuit. Le jour par contre, elle ressemble à une européenne. Elle a des yeux d’un noir presque monstrueux. Elle a des lèvres si pulpeuses que ça attirerait n’importe quel homme normalement constitué. Elle y dépose toujours un rouge à lèvre très rouge. Incroyablement rouge. Elle porte une jupe noire. Des collants noirs. Des bottines rouges. Et elle a un manteau rouge. Avec une capuche.
