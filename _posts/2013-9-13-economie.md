@@ -5,6 +5,9 @@ categories: [humeur]
 tags: [économie, humain]
 ---
 
+![money]({{ site.baseurl }}/images/money.jpg)
+
+
 La question ne pouvait pas se résumer à un simple : « pourquoi est-ce que les gens surfent pendant qu’ils sont au bureau, censés bosser et être productifs ? ».
 J’y pensais de plus en plus parce qu’avec ma pote Leeloo, on est des blasées du marché du travail. Elle et moi, nous n’avons pas les mêmes parcours, ni subi les mêmes mésaventures, et pourtant, on se retrouve souvent sur les Internets à discuter, principalement pour se raconter des histoires liées à notre travail. (comme quoi, y’a quand même un rapport avec la choucroute).
 
