@@ -5,6 +5,8 @@ categories: [atelier]
 tags: [souvenir]
 ---
 
+![pages]({{ site.baseurl }}/images/pages.jpg)
+
 Atelier d'écriture : "[Souvenirs : quelqu'un du passé resurgit dans ta vie...](https://www.scriptonautes.net/index.php/ateliers-passes/souvenirs-sujet-5-souvenirs-douloureux)"
 
 ___
