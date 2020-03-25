@@ -5,6 +5,8 @@ categories: [atelier]
 tags: [monstre]
 ---
 
+![monster]({{ site.baseurl }}/images/monster.jpg)
+
 L'atelier des Scriptonautes : chaque jeudi soir, les Scriptonautes se réunissent pour écrire autour d'un thème et de sujets imposés. Jeudi dernier, le thème était "les monstres".
 
 ___
