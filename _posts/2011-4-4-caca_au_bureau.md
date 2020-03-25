@@ -5,6 +5,8 @@ categories: [humeur]
 tags: [caca, bonnes pratiques]
 ---
 
+![secret]({{ site.baseurl }}/images/topsecret.jpg)
+
 Ma chère consœur [Leeloo](https://leeloorocks.com) a écrit, il y a quelques temps sur le caca sur le lieu de travail.
 Que faire lorsqu'on doit faire face à un cas de diarrhée au bureau ? Pour éviter de commettre quelques fautes qui vous mettrons encore plus dans la merde, voici quelques trucs et astuces...
 
