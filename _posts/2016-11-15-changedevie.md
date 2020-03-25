@@ -5,6 +5,8 @@ categories: [humeur]
 tags: [bio, éthique, vegan, local, artisanat]
 ---
 
+![diy]({{ site.baseurl }}/images/diy.jpg)
+
 Je ne me suis pas réveillé un matin me disant que fuck this shit, je vais révolutionner ma baraque, ma bouffe et ma manière de faire mes courses. Tu peux avoir conscience que tu pourrais faire mieux et pas avoir le temps pour faire les bonnes recherches, pour vérifier, pour t'informer, pour réfléchir à comment faire. Puis tu peux avoir le temps et pas encore être prêt à sauter le pas (parce que même quand tu vis avec une moitié de chômage, tu peux t'offrir le luxe de prendre le temps de te préparer psychologiquement à faire ou pas des trucs).
 
 Disons qu'au final, le tout c'est de finalement réussir à s'y mettre et pour ça, il faut bien commencer quelque part...
