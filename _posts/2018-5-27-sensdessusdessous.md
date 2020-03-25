@@ -5,6 +5,8 @@ categories: [atelier]
 tags: [érotisme, sensualité]
 ---
 
+![women in tech]({{ site.baseurl }}/images/sensdessusdessous.jpg)
+
 Atelier d'écriture des Scriptonautes. [Thème : Érotisme. Sujet : Sensualité](https://scriptonautes.net/index.php/ateliers-passes/erotisme-sujet-5-sensualite).
 
 Comme beaucoup, ils se sont rencontrés au travail. Il était un futur client, elle était chargée de projets dans une startup qui commençait à décoller. Ce que tout le monde pouvait savoir d'eux au premier coup d’œil, c'est que lui était aveugle mais avait un égo tel qu'on sentait sa présence lorsqu'il rentrait dans une pièce et qu'elle était très concentrée sur son travail, consciencieuse, obsédée de toujours en faire plus, de toujours faire mieux.
