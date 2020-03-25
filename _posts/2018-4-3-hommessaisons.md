@@ -5,6 +5,8 @@ categories: [atelier]
 tags: [rencontre]
 ---
 
+![seasons]({{ site.baseurl }}/images/seasons.jpg)
+
 Atelier des Scriptonautes sur le [thème "Rencontre". Choix de sujet : "Rencontre avec Joe Black"](https://www.scriptonautes.net/index.php/ateliers-passes/rencontres-sujet-1-rencontre-avec-joe-black)
 ___
 Que je te raconte ma rencontre avec elle ? Je vais plutôt commencer par mon premier souvenir d'elle...
