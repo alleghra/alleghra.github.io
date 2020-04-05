@@ -47,6 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  border-bottom: 3px solid $darkerGray;
   a {
     color: inherit;
   }
@@ -70,11 +71,11 @@ p {
 }
 
 a {
-  color: $brown;
+  color: $primary;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $brown;
+    color: $primary;
   }
 }
 
@@ -233,7 +234,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $brown;
+      color: $primary;
     }
   }
 }
