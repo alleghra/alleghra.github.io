@@ -111,7 +111,7 @@ This is a picture Molly made to show people how she sees or doesn't see. She rev
 
 She talked about how technology helps her on a daily basis to be independent and be a part of the world. She said a loooot of interesting things. That's why everyone should watch her talk...
 
-For me, it was the kick I need. I just started a new job in a huge company, working on an already existing product. And I discovered that some feature for impaired people are simply not working. I made a lot of analysis, research, recommendations... But I feel this frustration: is it enough? how may I know if my remarks and my notes are relevant. I wanted to contact impaired people who are using the product to know their feelings, their remarks, to know their problems, to hear about their recommendations. I was shy, I didn't know how to do it. Well, after Molly's talk, I know that on Monday morning, the first email I will send will be to some impaired users. I may not write it correctly but I'm still learning and at least I will try to reach them. I really really want them to test the product and tell me what we should do to improve it for them.
+For me, it was the kick I needed. I just started a new job in a huge company, working on an already existing product. And I discovered that some feature used by impaired people needed some serious improvement. I made a lot of analysis, research, recommendations... But I feel this frustration: is it enough? How should I know if my remarks and my notes are relevant. I wanted to contact impaired people who are using the product to know their feelings, their remarks, to know their problems, to hear about their recommendations. I was shy, I didn't know how to do it. Well, after Molly's talk, I know that on Monday morning, the first email I will send will be to these person. I may not write my messages correctly but I'm still learning and at least I will try to reach them. I really really want them to test the product and tell me what we should do to improve it for them.
 
 Yes, basically, Molly gave me the courage to do my work...
 
@@ -172,3 +172,7 @@ A loooot of bordel (as we say in French). I could not count everything but I bou
 - [Beyond tellerrand's speakers](https://beyondtellerrand.com/events/dusseldorf-2021/speakers)
 - [Beyond Tellerrand Dusseldorf 2021's playlist on YouTube](https://www.youtube.com/watch?v=tGyQIKzQt8E&list=PL8ZzmQWppBBt0uCOScOY69kQEPH5WjaOw)
 - [Florian Ziegler's photos](https://florian.photo/2021-11-08/?collection=beyond-tellerrand)
+
+## A special thanks to [Movify](https://www.movify.com/)
+
+As I told you earlier, I have a new job! And so far, I only had positive surprises. One of them is I have a training budget... You know what I mean, right? Yep, Movify sponsored my trip to Beyond Tellerrand! It's so awesome to be encouraged to attend to such amazing event. It's so empowering to be pushed for more knowledge, more skills, more networking, more solutions,... I mean, it's not just a "do whatever you want". It's really a "Please go! Go! And tell us everything!" Thank you very much et gros gros gros bisous to the Team L&D 🫀
