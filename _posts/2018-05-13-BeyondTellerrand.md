@@ -29,14 +29,14 @@ I’m sure you saw a lot of road trip movies too. So you know that every road tr
 
 We were just arrived at the Capitol Theater when a hostess gave us a cloth bag filled with a mug, a t-shirt, socks, books, pens, sickers,… There was a book in particular that catch my attention “24 Work Hacks… we wish we had discovered sooner” by Sipgate.
 
-![24 Work Hacks… we wish we had discovered sooner](btconf2018/sipgate-bestpractices.jpg)
+![24 Work Hacks… we wish we had discovered sooner]({{ site.baseurl }}/images/btconf2018/sipgate-bestpractices.jpg)
 
 I still didn’t finished to read it but I already want to set up the good practices at BeCode for me and my interns and for me and my colleagues. Advice n°24 is « Drop In ». Instead of staying with the same people, Sipgate organize once a month an event where they invited renowned people and asked them to talk about something. External people are allowed to come as well and it helps having others point of view.
 I remember before starting BeCode, me and three of my soon to be colleagues were invited to participate at a training to become trainers in France. I remember all the wonderfull ideas I wanted to steal and the others not so good ideas I noted to be very bad so we don’t waste time testing those shit. It was really informative. I like to keep in touch with my old trainers so we can discuss what’s working and what’s shitty and especially why. I think it would be great my interns would have the opportunity to meet other people too. (Like when they met my friend Yann. Yann thank you for passing by, you’re welcome whenever you want to come back ❤ )
 
 ## Now things are starting to get serious
 
-![Schedule of the two days](btconf2018/schedule.jpg)
+![Schedule of the two days]({{ site.baseurl }}/images/btconf2018/schedule.jpg)
 
 Super classy, right? Got your name, picture and twitter so people you meet knows who you are and you have the schedule inversely so you can pick an eye to see what’s coming next!
 
@@ -58,7 +58,7 @@ He reminds me of [Poppy Mili](https://www.instagram.com/poppymili/), the illustr
 
 Beyond Tellerrand is an event that brings together several conferences. Outside the conferences, there are artists’ stands. The pictures you see above are pictures I made at Jean-Philippe Côté’s stand. Jean-Philippe is a Canadian programmer/artist. In Düsseldorf, he brought an old bike dating back to 1986 that was going to end up in the garbage. Jean-Philippe turned him [into a portraitist](http://cote.cc/art/yoti).
 
-![Portait made by Jean-Philippe Côté's machine'](btconf2018/jeanphilippecote-portraits.jpg)
+![Portait made by Jean-Philippe Côté's machine]({{ site.baseurl }}/images/btconf2018/jeanphilippecote-portraits.jpg)
 
 The principle is simple: a camera takes your picture, a computer treats the image by contrast, then the old machine, armed with a felt pen, draws your portrait in the way of Chappie would have drawn.
 
@@ -74,7 +74,7 @@ Plus, when it’s done well, it’s really beautifull. And as a popularization e
 
 ## Jared Tarbell’s cubes — that moment I finally understood Alex (part 2)
 
-![Jared Tarbell's cube](btconf2018/jared-tarbell-s-cube.jpg)
+![Jared Tarbell's cube]({{ site.baseurl }}/images/btconf2018/jared-tarbell-s-cube.jpg)
 
 One of [Jared Tarbell’s cubes](https://beyondtellerrand.com/events/duesseldorf-2018/speakers/jared-tarbell), given to the audience in limited number. The more brutal and fast you are, the luckier you were to get one. This one belongs now to Anthony, one of my colleague.
 
@@ -102,7 +102,7 @@ Before going on stage, he prowled in front of the front row and watched us. He a
 
 I won’t tell you the story, just watch the video. But for my part, it reinforced me in my idea not to neglect the ethical questions with my interns. Speaking about it is absolutely necessary. Having debates about the news, the new laws, the Net Neutrality, GDPR, censorship, what we can do but we must not do,… we HAVE to talk about all those things at BeCode. As architects and web builders of today and tomorrow, we have an important responsibility. We have a duty, like every citizen, to act with humanity, with conscience, with ethics.
 
-![Design Ethics by Mike Monteiro](btconf2018/designethics-mikemonteiro.jpg)
+![Design Ethics by Mike Monteiro]({{ site.baseurl }}/images/btconf2018/designethics-mikemonteiro.jpg)
 
 Even his way of distributing this book was filled with emotion and principles. He was outraged that it’s always men who jumped to the stage to recover goodies. This time, he invited women to get up, to come and take a book. « The rest of you can fuck off and pay me for it », he added.
 
@@ -112,19 +112,19 @@ Everything is a question of ethics, choice, commitment. Nothing is insignificant
 
 As I was saying at the beginning, we were super late, we hadn’t eaten, we were hungry as fuck. Among all the people, I would say that there was a lot of french speakers. You can be sure that the vast majority of them knows Alex ’cause Alex goes at Beyond Tellerrand for years now and he is so excited about the concept that he always try to convince everyone to come as well. People of BeCode now, but as he was working at the HEAJ before, people from HEAJ too (Hi Remy, how you doin’?). So we had just arrived and Alex is already surrounded by friends, who are hungry too. So yes, we went to Burger King.
 
-![Burger King in Dusseldorf](btconf2018/burgerking.jpg)
+![Burger King in Dusseldorf]({{ site.baseurl }}/images/btconf2018/burgerking.jpg)
 
 At the end of the day, when the night has come and the sun was setting, restaurants were closing. Before leaving Brussels, I spotted a Japanese restaurant called Takumi on the Internet. Easy to remember, it is called as the restaurant in Ixelles where I like to go.
 
 Düsseldorf’s Takumi is a wonder. We showed up at passed 10 pm, we found barriers, probably for people who lined up to get in. But at this time, a Monday, there was almost no one left. The dishes were succulent. It was great because it was Corentin’s birthday (one of my interns).
 
-![Takumi in Dusseldorf](btconf2018/takumi.jpg)
+![Takumi in Dusseldorf]({{ site.baseurl }}/images/btconf2018/takumi.jpg)
 
 I usually don’t eat breakfast. Nevertheless, when there’s a way to find free waffles with chocolate and free hot chocolate, I’m never too far. I was talking about artist stands, selling stands and stuff but you have to know that there were sponsors stands as well. It was Accenture who gave us hot beverages. Adobe XD fed us with waffles and gave us the opportunity to test its software. Publicis gave us a lot of pens so we could take notes during the conferences. Mozilla was there with stickers… I don’t remember everyone and everything but we were well surrounded.
 
 Yes, we were spoiled.
 
-![](btconf2018/adobexd-waffles.jpg)
+![Adobe's waffles]({{ site.baseurl }}/images/btconf2018/adobexd-waffles.jpg)
 
 ## TL;DR
 
