@@ -28,7 +28,7 @@ The art of taking correctly care of what is inside the `<head>` in a website. An
 
 ### VFWTF?, by Bianca Berning
 
-![Bianca Berning](/{{ site.baseurl }}/images/btconf2021/BiancaBerning.png)
+![Bianca Berning]({{ site.baseurl }}/images/btconf2021/BiancaBerning.png)
 
 [Variable Fonts, WTF?](https://www.youtube.com/watch?v=yBSbHaOlYrk) What are they? What are the variables? Weight, slant, italic, optical size, melt? What are their uses, like in dark mode, responsiveness, in AR, in data visualisation,... 
 
@@ -44,7 +44,7 @@ The art of taking correctly care of what is inside the `<head>` in a website. An
 
 There was a couple of great quote during this talk. [*Our sensibilities are used against us for profit* and *Our digital habits are counterproductive. By design*.](https://www.youtube.com/watch?v=QImwKyCXpN4) Júlia explained how, indeed, our digital environment is bad and negative for us. But like other speakers before her, she gave some leads to change that. A little bit of hope. 💛
 
-![Júlia Racskó talking about feelings, and perceptions, and distractions]({{ site.baseurl }}/images/btconf2021/JúliaRacskó.png)
+![Júlia Racskó talking about feelings, and perceptions, and distractions]({{ site.baseurl }}/images/btconf2021/JuliaRacsko.png)
 
 And what was super interesting for me as a super-emotive person who loves to draw, she showed us how she's drawing emotions and feelings in a contextual drawing. And I was like "oh my god, maybe I can find a way to express myself, to explain with a drawing what I am experiencing". Because, like a looot of other people, last year was pretty much shit. I was diagnosed with a Panic Disorder. And a year and a half later, I'm on a good way to be considered as healed. When I'll be cured, I will still have to deal with my strong and intense emotions and some anxiety. It always has been difficult to talk about that. The result? Frustration. Thanks to Júlia I may have an idea on how to express those feelings without words, using drawings. 💚
 
@@ -74,11 +74,11 @@ During more than 4 years, I was a webdev coach. I tried my best to teach my lear
 
 Anyway, I was happy to see a talk about HTML and semantics and roles, and most of it **why** it's important to respect some basic rules. Yeah baby, there is **SEO and money** but there is also **accessibilty and users**.
 
-### Why do we really need oath anyway?, by Aaron Parecki 
+### Why do we really need oauth anyway?, by Aaron Parecki 
 
 ![Aaron Parecki]({{ site.baseurl }}/images/btconf2021/AaronParecki.png)
 
-Ahahahah Aaron! Aaron made us laugh during a talk about Oauth! Many times! Now, I really understand what it is, how it's working and why it is super usefull in many ways. Oath is like an hotel access card. Brilliant. I really like when speakers talk about technical stuff but use common and daily things to explain them to everyone. It's the "Explain me like I'm 5" method everyone should use all the time. Because no one is left behind, and because it's fun.
+Ahahahah Aaron! Aaron made us laugh during a talk about Oauth! Many times! Now, I really understand what it is, how it's working and why it is super usefull in many ways. Oauth is like an hotel access card. Brilliant. I really like when speakers talk about technical stuff but use common and daily things to explain them to everyone. It's the "Explain me like I'm 5" method everyone should use all the time. Because no one is left behind, and because it's fun.
 
 ### Unlock the fun!, by Ulrike Tausch
 
