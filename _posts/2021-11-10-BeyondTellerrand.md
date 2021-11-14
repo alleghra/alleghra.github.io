@@ -147,7 +147,7 @@ And behind the screen, there was Andrew. Marc Thiele never ever forget about **t
 
 That guy knows who to make us dance. He has the fire. He's mixing and dancing and singing and yelling at the same time! He's living his music. And seriously, that's part of the show. That's a very important part of the event. It brings joy and dynamic. You can feel that Tobi (aka Baldower) loves what he's doing. It's contagious. It's beautiful.
 
-Watch this Baldower's video, this gift to Marc Thiele: https://www.youtube.com/watch?v=2KkfxGPoaxU
+[Watch this Baldower's video, this gift to Marc Thiele](https://www.youtube.com/watch?v=2KkfxGPoaxU).
 
 ### Thanks!
 
