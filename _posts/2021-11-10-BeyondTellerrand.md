@@ -4,7 +4,7 @@ title: Beyond Tellerrand in Düsseldorf, 2021 edition
 categories: [event]
 tags: [event, design, english, creativity, UX]
 ---
-![4 and 1 friends at Dusseldorf]({{ site.baseurl }}/images/btconf2021/friends.png)
+![4 and 1 friends at Dusseldorf]({{ site.baseurl }}/images/btconf2021/friends.jpg)
 
 It is a Belgian developer, a Greek AI Specialist, a French writer and their friend UX designer who gather in Dusseldorf. Yep, sounds like a joke but actually, it's a true story. The story of Daniel, Chrysanthi, Leeloo and I at Beyond Tellerrand, the place where humanity, creativity and technology meet. 
 
