@@ -22,7 +22,7 @@ One thing that is awesome over there: you do not have to choose between talks. Y
 
 ### Get your `<head>` straight, by Harry Roberts
 
-![Harry Roberts]({{ site.baseurl }}/images/btconf2021/HarryRoberts.png)
+![Harry Roberts]({{ site.baseurl }}/images/btconf2021/HarryRoberts.jpg)
 
 The art of taking correctly care of what is inside the `<head>` in a website. And also why! And I have to admit, Harry's presentation was pretty convincing...
 
