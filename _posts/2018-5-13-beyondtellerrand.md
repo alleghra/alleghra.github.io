@@ -1,4 +1,10 @@
-# Beyond Tellerrand — an event about web, dev, design (edition 2018)
+---
+layout: post
+title: Beyond Tellerrand — an event about web, dev, design (edition 2018)
+categories: [event]
+tags: [event, design, english, creativity, UX]
+---
+
 
 Beyond Tellerrand is a great human experience to live, not only for people working in web or design, but for everyone. Let’s be honest, now more than ever, we need to renew ourself, to evolve, to adapt, to innovate. Beyond Tellerrand is the place to be if you need inspiration to learn how to think out of the box.
 
