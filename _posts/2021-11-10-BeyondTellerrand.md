@@ -4,9 +4,11 @@ title: Beyond Tellerrand in Düsseldorf, 2021 edition
 categories: [event]
 tags: [event, design, english, creativity, UX]
 ---
-![Good morning at Beyond Tellerrand]({{ site.baseurl }}/images/btconf2021/goodmorning.png)
+![4 and 1 friends at Dusseldorf]({{ site.baseurl }}/images/btconf2021/friends.png)
 
 It is a Belgian developer, a Greek AI Specialist, a French writer and their friend UX designer who gather in Dusseldorf. Yep, sounds like a joke but actually, it's a true story. The story of Daniel, Chrysanthi, Leeloo and I at Beyond Tellerrand, the place where humanity, creativity and technology meet. 
+
+![Good morning at Beyond Tellerrand]({{ site.baseurl }}/images/btconf2021/goodmorning.png)
 
 The last Beyond Tellerrand event took place in may 2019 in Düsseldorf. Since then, Covid happened and everything stopped. Usually, Marc Thiele can organize this huge event during one year. But this time, he received the authorization only a few months before. Marc has succeeded to gather speakers, partners, non-profit organisation, volunteers,... And once again, it was a total success.
 
