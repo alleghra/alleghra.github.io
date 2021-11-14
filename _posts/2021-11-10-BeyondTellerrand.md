@@ -1,42 +1,69 @@
-# Beyond Tellerrand 2021
+---
+layout: post
+title: Beyond Tellerrand in Düsseldorf, 2021 edition
+categories: [event]
+tags: [event, design, english, creativity, UX]
+---
+
+
 
 ![](/Users/movify/Documents/btconf2021/goodmorning.png)
 
+It is a Belgian developer, a Greek AI Specialist, a French writer and their friend UX designer who gather in Dusseldorf. Yep, sounds like a joke but actually, it's a true story. The story of Daniel, Chrysanthi, Leeloo and I at Beyond Tellerrand, the place where humanity, creativity and technology meet. 
 
+The last Beyond Tellerrand event took place in may 2019 in Düsseldorf. Since then, Covid happened and everything stopped. Usually, Marc Thiele can organize this huge event during one year. But this time, he received the authorization only a few months before. Marc has succeeded to gather speakers, partners, non-profit organisation, volunteers,... And once again, it was a total success.
+
+It is not without a lot of emotion and some tears that Marc introduced the event Monday morning.
 
 ## The talks, day 1
 
 ![](/Users/movify/Documents/btconf2021/schedule.png)
 
-
+One thing that is awesome over there: you do not have to choose between talks. You can see everything if you want to.
 
 ### Get your `<head>` straight, by Harry Roberts
 
 ![](/Users/movify/Documents/btconf2021/HarryRoberts.png)
 
+The art of taking correctly care of what is inside the `<head>` in a website. And also why! And I have to admit, Harry's presentation was pretty convincing...
+
 ### VFWTF?, by Bianca Berning
 
 ![](/Users/movify/Documents/btconf2021/BiancaBerning.png)
+
+[Variable Fonts, WTF?](https://www.youtube.com/watch?v=yBSbHaOlYrk) What are they? What are the variables? Weight, slant, italic, optical size, melt? What are their uses, like in dark mode, responsiveness, in AR, in data visualisation,... 
 
 ### Pragmatic Sketching, by Eva-Lotta Lame
 
 ![](/Users/movify/Documents/btconf2021/EvaLottaLamm.png)
 
+[Eva-Lotta invited us to learn and to sketch](https://www.youtube.com/watch?v=9QOMg7m8u9Q) at the same time as her. She showed and explained a lot of her techniques. I will definitely practice her tips everyday :)
+
 ### Attentive Design - Moving from an exhausting to a nourishing digital media environment, by Júlia Racskó
 
-![](/Users/movify/Documents/btconf2021/JúliaRacskó.png)
+![Júlia Racskó talking about data and humanity](/Volumes/GoogleDrive/.shortcut-targets-by-id/11_iz8r6hrXPYSYqF-2dL4N2igKvzEgCv/Les Minimes/btconf2021/julia.jpg)
+
+There was a couple of great quote during this talk. [*Our sensibilities are used against us for profit* and *Our digital habits are counterproductive. By design*.](https://www.youtube.com/watch?v=QImwKyCXpN4) Júlia explained how, indeed, our digital environment is bad and negative for us. But like other speakers before her, she gave some leads to change that. A little bit of hope. 💛
+
+![Júlia Racskó talking about feelings, and perceptions, and distractions](/Users/movify/Documents/btconf2021/JúliaRacskó.png)
+
+And what was super interesting for me as a super-emotive person who loves to draw, she showed us how she's drawing emotions and feelings in a contextual drawing. And I was like "oh my god, maybe I can find a way to express myself, to explain with a drawing what I am experiencing". Because, like a looot of other people, last year was pretty much shit. I was diagnosed with a Panic Disorder. And a year and a half later, I'm on a good way to be considered as healed. When I'll be cured, I will still have to deal with my strong and intense emotions and some anxiety. It always has been difficult to talk about that. The result? Frustration. Thanks to Júlia I may have an idea on how to express those feelings without words, using drawings. 💚
 
 ### Mut ist, wenn man es trotzdem macht, by Titus Dittmann
 
 ![](/Users/movify/Documents/btconf2021/TitusDittmann.png)
 
-Titus began his talk in English to apologise about not doing the talk in English. During this first minutes, he said he was too old for it (almost 73 years-old), he used to live in America, and then he talked about skates. Titus is a 72 years old guy
+Titus began his talk in English to apologise about not doing the talk in English. During this first minutes, he said he was too old for it (almost 73 years-old), taht he used to live in America, and then he talked about skates. Titus is a 72 years old guy considered as the "father of the German skateboard scene". I understood he was a teacher, an entrepreneur and launched his foundation to help people.
+
+For more, I will have to wait until the video of his talk is online and subtitled.
 
 ### The pandemic didn't kill you, so now what?, by Jeff Greenspan
 
-Jeff during the pandemic, he helped people reviewing their portfolio.
-
 ![](/Users/movify/Documents/btconf2021/JeffGreenspan.png)
+
+Jeff has been affected by the lockdown. Like everyone. And like everyone, he tried to use this inside time to make something, have fun, help people, be useful,... Like everyone, he experienced a lot of shitty stuff.
+
+Jeff is a comedian and a writer and an activist. He used to live and work in New-York but with the pandemic, he moved in Tennessee to perform inside a hotel. He use the multiple constraints of the pandemic to find solutions and create a new way of living, working and having fun.
 
 ## The talks - Day 2
 
@@ -52,15 +79,17 @@ Anyway, I was happy to see a talk about HTML and semantics and roles, and most o
 
 ![](/Users/movify/Documents/btconf2021/AaronParecki.png)
 
-### Unlock the fun!, by Ulrike Tausch
+Ahahahah Aaron! Aaron made us laugh during a talk about Oauth! Many times! Now, I really understand what it is, how it's working and why it is super usefull in many ways. Oath is like an hotel access card. Brilliant. I really like when speakers talk about technical stuff but use common and daily things to explain them to everyone. It's the "Explain me like I'm 5" method everyone should use all the time. Because no one is left behind, and because it's fun.
 
-### 
+### Unlock the fun!, by Ulrike Tausch
 
 ![](/Users/movify/Documents/btconf2021/UlrikeRausch.png)
 
-### Looking like a lost sheep - The story of the lonely chart, by Matthias Stahl
+Ulrike is a very funny and expressive person. She's full of joy and sparkles. She's basically a human unicorn who really loves fonts. And  she knows how to transmit this love. And it's beautiful.
 
-### 
+Plus, she's a very talented font designer. She showed us several awesome features about fonts we had no idea they existed. Her talk completed perfectly Bianca's one.
+
+### Looking like a lost sheep - The story of the lonely chart, by Matthias Stahl
 
 ![](/Users/movify/Documents/btconf2021/MatthiasStahl.png)
 
@@ -102,7 +131,7 @@ And behind the screen, there was Andrew. Marc Thiele never ever forget about **t
 
 ### Baldower, the official DJ
 
-That guy knows to make us dance. He has the fire. He 
+That guy knows to make us dance. He has the fire. He https://www.youtube.com/watch?v=2KkfxGPoaxU
 
 ![](/Users/movify/Documents/btconf2021/tobi.jpg)
 
