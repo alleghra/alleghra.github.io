@@ -1,3 +1,9 @@
+---
+layout: post
+title: Créer un environnement heureux pour votre chat : les petits détails qui font la différ
+categories: [refuge]
+tags: [chat]
+---
 
 # Créer un environnement heureux pour votre chat : les petits détails qui font la différence
 
